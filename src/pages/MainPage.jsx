@@ -100,10 +100,10 @@ const MainPage = () => {
                   </div>
                 </div>
 
-                <div className="grow"></div>
+                <div className="grow hidden md:block"></div>
 
                 <div className="relative self-end justify-self-end">
-                  <div className="mb-[38px] pl-[53px] pr-[53px]">
+                  <div className="hidden md:block mb-[38px] pl-[53px] pr-[53px]">
                     <div className="flex justify-center md:justify-start">
                       <Tag icon={hottie} name="Hottie"></Tag>
                     </div>

@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Sriracha;
+  src: url("./fonts/Sriracha-Regular.ttf");
+}
+@font-face {
+  font-family: Poppins;
+  src: url("./fonts/Poppins-Regular.ttf");
+}
+@font-face {
+  font-family: Poppins-Italic;
+  src: url("./fonts/Poppins-Italic.ttf");
+}
+@font-face {
+  font-family: Montserrat-Bold;
+  src: url("./fonts/Montserrat-Bold.ttf");
+}
+@font-face {
+  font-family: Montserrat-SemiBold;
+  src: url("./fonts/Montserrat-SemiBold.ttf");
+}
+@font-face {
+  font-family: Montserrat-Medium;
+  src: url("./fonts/Montserrat-Medium.ttf");
+}

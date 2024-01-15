@@ -38,9 +38,7 @@ const Tag = (context) => {
 
 const MainPage = () => {
   const onTapAppStore = useCallback(() => {
-    window.open(
-      "https://apps.apple.com/cn/app/soulmate-ai%E5%A5%B3%E5%8F%8B%E8%99%9A%E6%8B%9F%E6%81%8B%E7%88%B1%E5%AF%B9%E8%AF%9D%E8%81%8A%E5%A4%A9-%E7%81%B5%E9%AD%82%E4%BC%B4%E4%BE%A3%E6%A8%A1%E6%8B%9F%E6%81%8B%E7%88%B1/id6451964936"
-    );
+    window.open("https://apps.apple.com/us/app/soulmate-ai-chat-date-love/id6451964936");
   });
   const onTapPlayStore = useCallback(() => {
     window.open(
